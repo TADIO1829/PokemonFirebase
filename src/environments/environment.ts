@@ -4,14 +4,7 @@
 
 export const environment = {
   production: false,
-  firebaseConfig : {
-    apiKey: "AIzaSyDI_KQ3AZuyOvUkAL3UTNg1XSsJ6qk5nW8",
-    authDomain: "pokemonapi-70e31.firebaseapp.com",
-    projectId: "pokemonapi-70e31",
-    storageBucket: "pokemonapi-70e31.firebasestorage.app",
-    messagingSenderId: "792473040604",
-    appId: "1:792473040604:web:88ba140a498c6a9abce619"
-  }
+
 };
 
 /*
