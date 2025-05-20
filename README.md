@@ -10,4 +10,5 @@ Este proyecto se creo por:
 - Walter Cobacango
 
 
-[APK POKEN Desplegado](https://linktodocumentation)
+[APKn Pokemon - Desplegado](https://drive.google.com/file/d/1Nv1hdWCRP-ReJtIdx-uLTKLZXLvt9hQ-/view?usp=sharing)
+
